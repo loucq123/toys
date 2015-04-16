@@ -269,6 +269,5 @@ def setup_game():
 		clock.tick(60)
 	pygame.quit()
 
-
 if __name__ == '__main__':
 	setup_game()
